@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DanceAcademy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Welcome to SJSU</string>
+    <string name="next_button">Next</string>
+    <string name="title_activity_form_filling">FormFilling</string>
+
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    
+    <string name="editFirstname">Enter First Name</string>
+    <string name="editLastname">Enter Last Name</string>
+    <string name="editEmail">Enter Email</string>
+    <string name="editPhone_number">Enter Phone Number</string>
+    
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="user_details">User Details</string>
+    
+    <string name="logo">Logo</string>
+    
+</resources>
