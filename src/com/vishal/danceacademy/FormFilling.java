@@ -102,13 +102,6 @@ public class FormFilling extends ActionBarActivity {
 		});
 	}
 	
-	private boolean isValidEmail(String email) {
-		if (email != null && email.length() > 6) {
-			return true;
-		}
-		return false;
-	}
-
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
